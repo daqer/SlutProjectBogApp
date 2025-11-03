@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ISBNDBIntegration": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
